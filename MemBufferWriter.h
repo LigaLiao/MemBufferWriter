@@ -1,4 +1,5 @@
 #include <fstream>
+#include <thread>
 #include <minwindef.h>
 class MemBufferWriter
 {
